@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/rodolfo-lima-454222369/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="54" height="32" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/roddock.bartender/" target="_blank">
+  <a href="https://www.instagram.com/roddock_/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="54" height="32" alt="instagram logo"  />
   </a>
 </div>
